@@ -37,7 +37,7 @@ function Change(e) {
         document.querySelector('.nametarget').innerText = takeTarget.text;
     }
 
-    setTimeout(rmLoading,250);
+    setTimeout(rmLoading,300);
         
 
 }
